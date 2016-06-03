@@ -1,5 +1,7 @@
 # Car Lease Demo (For testing)
 
+Repository linked from bluemix is now available [here](https://github.com/IBM-Blockchain/car-lease-demo)
+
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/jpayne23/Car-Lease-Demo.git)
 
 # Application Background
